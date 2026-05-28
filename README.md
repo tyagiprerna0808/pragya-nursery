@@ -1,81 +1,26 @@
-<div align="center">
+# Pragya Nursery
 
-# 🌿 Pragya Nursery
+Online plant ordering and delivery in Greater Noida.
 
-### Premium Indoor & Outdoor Plants — Delivered Fresh to Your Door
+Website: https://www.pragyanursery.co.in
 
-**Noida • Greater Noida • Greater Noida West**
+## About
 
-<br>
+Family-run retail plant nursery in Greater Noida West. Same-day delivery within
+a 15 km radius. Over fifty indoor, outdoor, flowering, fruit, and exotic plant
+varieties.
 
-🔗 **[Visit Pragya Nursery →](https://pragya-nursery-platform-api.vercel.app)**
+## Contact
 
-<br>
-
-</div>
-
----
-
-## 🌱 About Us
-
-**Pragya Nursery** is a family-run nursery based in **Greater Noida West**, offering a handpicked selection of premium indoor and outdoor plants — delivered fresh to your doorstep.
-
-Founded and operated by **Pankaj Tyagi**, we've served **500+ happy plant parents** across Noida and Greater Noida, bringing nature closer to homes and offices — one plant at a time.
-
-Whether you're looking for a small table-top succulent to brighten your desk, a lush indoor plant for your living room, or vibrant outdoor flowering plants for your balcony — we've got you covered.
-
----
-
-## 🪴 What We Offer
-
-| Category | Examples |
-|---|---|
-| 🪴 **Table Top Indoor** | Money Plant, Jade, Succulents, Cacti |
-| 🌿 **Indoor Plants** | Snake Plant, Peace Lily, Areca Palm, Pothos |
-| 🌸 **Outdoor Flowering** | Hibiscus, Bougainvillea, Jasmine, Rose |
-| 🍋 **Fruit Plants** | Lemon, Guava, Mango, Pomegranate |
-| 🌴 **Exotic Plants** | Monstera, Fiddle Leaf Fig, Bird of Paradise |
-
-> **50+ plant varieties** — all nursery-fresh, inspected, and ready for your home.
-
----
-
-## ✨ Why Choose Us
-
-- 🌱 **100% Healthy Plants** — Every plant is hand-inspected before delivery
-- 🚚 **Same-Day Local Delivery** — Within 15 km of our nursery
-- 👨‍🌾 **Expert Care Guidance** — Personal plant care tips via WhatsApp after every order
-- 💰 **Best Prices** — Direct from nursery, no middlemen
-- 📱 **Easy WhatsApp Ordering** — Browse online, order via WhatsApp in seconds
-
----
-
-## 📍 Visit Us
-
-**📌 Address:**  
-L.N. Mishra Marg, Near Char Murti Gol Chakkar,  
+L.N. Mishra Marg, near Char Murti Gol Chakkar
 Greater Noida West, Uttar Pradesh 201308
 
-**📞 Phone:** [9810306257](tel:9810306257)  
-**💬 WhatsApp:** [Chat with us](https://wa.me/919810306257)  
-**🕐 Open:** Mon – Sun, 8:00 AM – 7:00 PM (all 7 days!)
+Phone: +91 98103 06257
+WhatsApp: https://wa.me/919810306257
+Email: pragyanursery@rediffmail.com
 
----
+Open Monday to Sunday, 08:00 to 19:00 IST.
 
-## 🔗 Quick Links
+## Android app
 
-| | |
-|---|---|
-| 🌐 **Website** | [pragya-nursery-platform-api.vercel.app](https://pragya-nursery-platform-api.vercel.app) |
-| 💬 **WhatsApp** | [wa.me/919810306257](https://wa.me/919810306257) |
-| 📧 **Email** | [Pragyanursery@rediffmail.com](mailto:Pragyanursery@rediffmail.com) |
-
----
-
-<div align="center">
-
-*Made with 🌱 in Greater Noida West*
-
-**© 2025 Pragya Nursery. All rights reserved.**
-
-</div>
+Coming soon.
