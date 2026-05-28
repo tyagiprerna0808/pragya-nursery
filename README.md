@@ -13,7 +13,7 @@
 ## About
 
 Pragya Nursery sells live plants across Greater Noida. The catalogue spans
-indoor, outdoor, flowering, fruit, and exotic varieties — each one nursery-grown,
+indoor, outdoor, flowering, fruit, and exotic varieties, each one nursery grown,
 inspected before dispatch, and delivered within a 15 km radius the same day it
 is ordered. Online checkout end to end; in-store pickup also available.
 
