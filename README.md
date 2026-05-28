@@ -1,12 +1,10 @@
+<p align="center">
+  <img src="assets/hero.svg" alt="Pragya Nursery" width="100%">
+</p>
+
 <div align="center">
 
-# Pragya Nursery
-
-**Online plant store for Greater Noida.**
-
-Curated catalogue. Same-day delivery. Paid checkout.
-
-[**Visit pragyanursery.co.in →**](https://www.pragyanursery.co.in)
+**[Visit pragyanursery.co.in →](https://www.pragyanursery.co.in)**
 
 </div>
 
@@ -29,7 +27,7 @@ is ordered. Online checkout end to end; in-store pickup also available.
 
 ## Find us
 
-L.N. Mishra Marg, near Char Murti Gol Chakkar
+L.N. Mishra Marg, near Char Murti Gol Chakkar<br>
 Greater Noida West, Uttar Pradesh 201308
 
 **[Open in Google Maps →](https://www.google.com/maps/search/?api=1&query=Pragya+Nursery+Greater+Noida+West)**
